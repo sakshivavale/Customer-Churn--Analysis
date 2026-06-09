@@ -7,79 +7,78 @@ The analysis focuses on customer demographics, tenure, contract types, internet 
 
 🎯 Objectives
 * Analyze customer churn behavior.
-Identify high-risk customer segments.
-Understand factors influencing customer retention.
-Generate meaningful visualizations for business insights.
-Provide data-driven recommendations to reduce churn.
+* Identify high-risk customer segments.
+* Understand factors influencing customer retention.
+* Generate meaningful visualizations for business insights.
+* Provide data-driven recommendations to reduce churn.
+  
 📊 Dataset Information
-
 The dataset contains customer information including:
-
-Gender
-Senior Citizen Status
-Tenure
-Contract Type
-Internet Service
-Payment Method
-Online Security
-Online Backup
-Device Protection
-Tech Support
-Monthly Charges
-Total Charges
-Churn Status
+* Gender
+* Senior Citizen Status
+* Tenure
+* Contract Type
+* Internet Service
+* Payment Method
+* Online Security
+* Online Backup
+* Device Protection
+* Tech Support
+* Monthly Charges
+* Total Charges
+* Churn Status
+  
 🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+  
 📈 Exploratory Data Analysis
-
 The project includes various visualizations such as:
-
-Customer Demographics
-Gender Distribution
-Senior Citizen Analysis
-Churn Analysis
-Churn Distribution
-Churn Percentage Analysis
-Service Analysis
-Internet Service vs Churn
-Online Security vs Churn
-Online Backup vs Churn
-Device Protection vs Churn
-Tech Support vs Churn
-Customer Behavior Analysis
-Tenure Distribution
-Contract Type vs Churn
-Payment Method vs Churn
-Monthly Charges Analysis
-Correlation Analysis
-Heatmap for Numerical Features
+* Customer Demographics
+* Gender Distribution
+* Senior Citizen Analysis
+* Churn Analysis
+* Churn Distribution
+* Churn Percentage Analysis
+* Service Analysis
+* Internet Service vs Churn
+* Online Security vs Churn
+* Online Backup vs Churn
+* Device Protection vs Churn
+* Tech Support vs Churn
+* Customer Behavior Analysis
+* Tenure Distribution
+* Contract Type vs Churn
+* Payment Method vs Churn
+* Monthly Charges Analysis
+* Correlation Analysis
+* Heatmap for Numerical Features
+  
 🔍 Key Findings
-Overall Churn
-26.54% of customers have churned.
-73.46% of customers have been retained.
-Customer Tenure
-Customers with lower tenure show significantly higher churn rates.
-Long-term customers demonstrate stronger loyalty.
-Contract Type
-Month-to-month contract customers exhibit the highest churn rates.
-One-year and two-year contracts significantly improve retention.
-Internet Services
-Fiber Optic users have the highest churn percentage.
-DSL users tend to be more stable.
-Additional Services
+* Overall Churn
+* 26.54% of customers have churned.
+* 73.46% of customers have been retained.
+* Customer Tenure
+* Customers with lower tenure show significantly higher churn rates.
+* Long-term customers demonstrate stronger loyalty.
+* Contract Type
+* Month-to-month contract customers exhibit the highest churn rates.
+* One-year and two-year contracts significantly improve retention.
+* Internet Services
+* Fiber Optic users have the highest churn percentage.
+* DSL users tend to be more stable.
+* Additional Services
 
-Customers without:
+# Customers without:
 
-Online Security
-Online Backup
-Device Protection
-Tech Support
-
+* Online Security
+* Online Backup
+* Device Protection
+* Tech Support
 are considerably more likely to churn.
 
 Payment Method
@@ -109,7 +108,5 @@ Customer-Churn-Analysis/
 The analysis successfully identifies the primary drivers of customer churn and provides actionable business insights that can help organizations improve customer retention and reduce revenue loss.
 
 👩‍💻 Author
-
 Sakshi Vavale
-
 Data Analytics | Python | SQL | Power BI | Machine Learning
